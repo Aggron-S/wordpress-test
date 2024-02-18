@@ -1,0 +1,2 @@
+2024-02-13T09:27:59+00:00 CRITICAL LiteSpeed\Root::cls(): Cannot use output buffering in output buffering display handlers in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\google-listings-and-ads\src\Proxies\Tracks.php on line 1
+

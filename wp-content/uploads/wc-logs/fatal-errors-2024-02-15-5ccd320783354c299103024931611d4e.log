@@ -1,0 +1,86 @@
+2024-02-15T02:37:38+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\themes\blocksy\inc\components\customizer-builder.php on line 277
+
+2024-02-15T04:46:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-02-15T04:47:00+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\post.php on line 2526
+
+2024-02-15T04:47:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\post.php on line 6849
+
+2024-02-15T04:47:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2024-02-15T04:47:07+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\class-wp-rewrite.php on line 354
+
+2024-02-15T04:47:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\post.php on line 6849
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\API\Reports\DataStoreInterface.php on line 8
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\Overrides\Order.php on line 10
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\Overrides\Order.php on line 10
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\Overrides\Order.php on line 10
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\API\Reports\SqlQuery.php on line 8
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\Overrides\Order.php on line 10
+
+2024-02-15T04:47:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\Overrides\Order.php on line 10
+
+2024-02-15T04:49:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\elementor\includes\autoloader.php on line 293
+
+2024-02-15T06:46:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-admin\includes\plugin.php on line 334
+
+\ArrayUtil.php on line 326
+
+2024-02-15T06:46:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\functions.php on line 6805
+
+2024-02-15T06:46:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\functions.php on line 6805
+
+2024-02-15T06:46:36+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\functions.php on line 4593
+
+2024-02-15T06:46:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-02-15T06:46:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-waf\src\class-waf-constants.php on line 106
+
+2024-02-15T06:47:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\class-wpdb.php on line 2349
+
+2024-02-15T08:39:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\jetpack\vendor\jetpack-autoloader\class-version-loader.php on line 153
+
+2024-02-15T08:39:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\wpforms-lite\src\Admin\Tools\Importers\NinjaForms.php on line 542
+
+2024-02-15T08:39:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\includes\gateways\paypal\includes\class-wc-gateway-paypal-response.php on line 8
+
+2024-02-15T08:41:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\elementor\core\wp-api.php on line 6
+
+2024-02-15T08:41:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\includes\admin\plugin-updates\class-wc-plugin-updates.php on line 11
+
+2024-02-15T08:41:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\includes\admin\plugin-updates\class-wc-plugin-updates.php on line 11
+
+2024-02-15T08:41:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-admin\includes\plugin.php on line 334
+
+2024-02-15T08:41:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\functions.php on line 6805
+
+2024-02-15T08:41:20+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\functions.php on line 6805
+
+2024-02-15T10:24:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\includes\react-admin\core-functions.php on line 73
+
+2024-02-15T10:24:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Internal\Hydration\AbstractHydrator.php on line 4
+
+2024-02-15T10:24:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\LockMode.php on line 3
+
+2024-02-15T10:24:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\Abstraction\Result.php on line 4
+
+2024-02-15T10:24:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\includes\react-admin\page-controller-functions.php on line 64
+
+2024-02-15T10:24:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\dbal\lib\Doctrine\DBAL\Abstraction\Result.php on line 4
+
+2024-02-15T10:24:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\orm\lib\Doctrine\ORM\Internal\Hydration\AbstractHydrator.php on line 4
+
+2024-02-15T10:24:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\google-listings-and-ads\vendor\google\apiclient-services\src\ShoppingContent\Resource\Productdeliverytime.php on line 82
+
+2024-02-15T10:24:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\woocommerce\src\Admin\Features\OnboardingTasks\Tasks\Appearance.php on line 73
+
+2024-02-15T10:25:05+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-content\plugins\jetpack\class.jetpack.php on line 5783
+
+2024-02-15T10:25:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress-test\wordpress\wp-includes\class-wpdb.php on line 2349
+
